@@ -24,7 +24,7 @@
 ---
 
 住基ネット統一文字コードと文字情報基盤文字との対応表は、文字情報技術促進協議会の公表しているMJ文字情報一覧表 Ver.006.01を元に作成しました。
-<https://moji.or.jp/mojikiban/mjlist/
+<https://moji.or.jp/mojikiban/mjlist/>
 
 本プログラム等の作成にはChatGPT Code InterpreterとGitHub Copilotを利用しています。具体的なプロンプトは Prompt.md を参照してください。
 

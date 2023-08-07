@@ -15,11 +15,6 @@
 -h, --help: 使用方法を表示
 -v, --version: バージョン情報を表示
 
-開発者
----
-
-楠 正憲 <masanork@gmail.com>
-
 謝辞
 ---
 
